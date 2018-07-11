@@ -1,5 +1,5 @@
 # Kafka_Pipeline
-Simple Kafka Pipeline that sends a kaglle csv file from producer to consumer.
+Simple Kafka Pipeline that sends a kaggle csv file from producer to consumer.
 
 How to run it:
 
